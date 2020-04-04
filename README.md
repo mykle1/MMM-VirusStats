@@ -16,7 +16,7 @@
 
 ```
 {
-    disabled: f,
+    disabled: false,
     module: 'MMM-VirusStats',
     position: 'middle center',
     config: {
